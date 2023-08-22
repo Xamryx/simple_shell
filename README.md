@@ -1,1 +1,1 @@
-0x16. C - Simple Shell- Team Project- Ibrahim227 & Xamryx
+0x16. C-Simple Shell- Team Project - Ibrahim227- Xamryx
