@@ -12,5 +12,9 @@
 #include<errno.h>
 
 int main(void);
+int interpreter(info_t *info);
+int is_delim(char k, char *delim);
+int _isalpha(int i);
+int _atoi(char *s);
 
 #endif
