@@ -1,6 +1,8 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
+/*Ibrahim and Xamryx*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -232,4 +234,5 @@ int replace_alias(info_t *);
 int replace_vars(info_t *);
 int replace_string(char **, char *);
 
+/*Ibrahim and Xamryx*/
 #endif
